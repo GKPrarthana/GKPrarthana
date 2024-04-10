@@ -15,7 +15,7 @@
 <img src="https://github.com/GKPrarthana/GKPrarthana/blob/main/girlcodeGIF.gif?raw=true" width="200" height="175"/>
 
 <p> A passionate student with a love for all things related to machine learning and artificial intelligence. 
- I'm currently studying at <a href="https://www.kdu.ac.lk/" target="_blank">KDU</a> , where I'm honing my skills in statistical analysis, programming, and data visualization.
+ I'm currently studying at <a href="https://www.kdu.ac.lk/">KDU</a> , where I'm honing my skills in statistical analysis, programming, and data visualization.
  </p>
  
 
