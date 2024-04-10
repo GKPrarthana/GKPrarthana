@@ -16,13 +16,6 @@
  I'm currently studying at <a href="https://www.kdu.ac.lk/" target="_blank">KDU</a> , where I'm honing my skills in statistical analysis, programming, and data visualization.
  </p>
  
- 🌱 I’m currently learning advanced machine learning techniques, such as deep learning and reinforcement learning
-
- 💬 Ask me about **anything!😏**
-
- ⚡ Fun fact **I have a pet cat who loves to cuddle and keep me company while I code**
-
- 
 
 
 <div align=left>
