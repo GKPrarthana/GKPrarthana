@@ -3,7 +3,7 @@
 <p>BSc(Hons) Data Science & Business Analytics(UG)</p>
 
 
-<h3 align="center">Data-obsessed undergraduate with a passion for learning and experimenting with new tools and techniques in data science`</h3>
+<h3 align="center">Data-obsessed undergraduate with a passion for learning and experimenting with new tools and techniques in data science</h3>
 <p align="center">
 <a href="https://linkedin.com/in/prarthana sewmini ganegama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prarthana sewmini ganegama" height="30" width="40" /></a>
 <a href="https://fb.com/prarthana sewmini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prarthana sewmini" height="30" width="40" /></a>
