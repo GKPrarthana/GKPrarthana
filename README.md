@@ -64,7 +64,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gkprarthana&layout=compact&theme=transparent)](https://github.com/gkpsewmini/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gkprarthana&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gkprarthana)](https://git.io/streak-stats)
 
 ![Prarthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=GKPrarthana&show_icons=true&bg_color=00000000)
 
